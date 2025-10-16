@@ -1,4 +1,5 @@
-
+Name: Gagana S
+Roll: DA25C008
 
 # Credit Risk Default: Missing Data Imputation and Modeling
 
@@ -89,4 +90,5 @@ This project explores different missing data handling strategies in a credit def
 ## Results
 
 The project outputs a comparison table of classifier accuracy, precision, recall, and F1-score for each missing data strategy. Recommendations for best practice are included based on model efficacy and conceptual analysis.
+
 
